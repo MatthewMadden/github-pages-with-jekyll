@@ -1,3 +1,6 @@
-# Welcome to my blog
+# The GitHub Blog of Matt Madden
 
-I'm glad you are here. I plan to talk about ...
+Welcome to my GitHub blog. While this is just a project to better learn GitHub, my actual blog can be found here:
+https://matthew-madden.com
+
+Hope y'all enjoy it! 
