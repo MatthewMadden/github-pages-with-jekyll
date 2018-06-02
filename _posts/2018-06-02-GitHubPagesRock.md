@@ -1,4 +1,7 @@
-# GitHub Pages Gameplan: Logging my 100 Days of Code Progress
+---
+title: "GitHub Pages Gameplan: Logging my 100 Days of Code Progress"
+date: 2018-06-02
+---
 
 Today is round 1, day 3 (R1D3) of the 100 Days of Code challenge I am currently doing, and I think using
 a GitHub pages blog to log my progress each day would be a great way to practice using GitHub regularly. 
